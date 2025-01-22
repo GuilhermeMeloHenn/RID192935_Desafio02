@@ -1,5 +1,7 @@
 # The Dev News Blog
 
+Link do site disponibilizado: 
+
 Um blog responsivo desenvolvido com HTML e CSS, focado em notícias e artigos sobre desenvolvimento e tecnologia.
 
 ## 📋 Sobre o Projeto
