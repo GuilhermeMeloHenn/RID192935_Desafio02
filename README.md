@@ -1,6 +1,6 @@
 # The Dev News Blog
 
-Link do site disponibilizado: 
+Link do site disponibilizado: https://blogresponsivo192935desafio02.netlify.app
 
 Um blog responsivo desenvolvido com HTML e CSS, focado em notícias e artigos sobre desenvolvimento e tecnologia.
 
